@@ -1,0 +1,9 @@
+﻿<unity:PrismApplication x:Class="HappyFriday.MachineVisionApplication.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:unity="http://prismlibrary.com/"
+             xmlns:local="clr-namespace:HappyFriday.MachineVisionApplication">
+    <Application.Resources>
+         
+    </Application.Resources>
+</unity:PrismApplication>
